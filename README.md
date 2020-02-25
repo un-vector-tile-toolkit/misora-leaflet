@@ -1,2 +1,2 @@
 # misora-leaflet
-Leaflet for misora
+Leaflet for Misora
